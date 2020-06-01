@@ -7,3 +7,5 @@ Since I am using Libvirt instead of VirtualBox or VMWare, I will need to have so
 ## Vagrant Project Preparation
 
 https://github.com/vagrant-libvirt/vagrant-libvirt#provider-options
+
+https://www.vagrantup.com/docs/index
