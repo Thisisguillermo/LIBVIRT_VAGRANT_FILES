@@ -7,5 +7,6 @@ Vagrant.configure("2") do |config|
     libvirt.cpus = 4
     libvirt.memory = 4000
     config.vm.network "private_network", ip: "192.168.122.246"
+    config.vm.synced_folder "./", "/vagrant"
    end
 end
