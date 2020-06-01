@@ -1,4 +1,3 @@
-
 ## Vagrantfile ubuntu2004
 
 Vagrant.configure("2") do |config|
